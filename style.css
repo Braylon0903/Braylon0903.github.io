@@ -10,3 +10,7 @@ h1{
     padding: 0.3in;
     flex-direction: row;
 }
+.nav {
+    background-color: black;
+    border-color: black;
+}
